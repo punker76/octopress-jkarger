@@ -1,0 +1,13 @@
+---
+layout: post
+title: ".NET DevCon 2011"
+date: 2011-03-29 21:15
+comments: true
+categories: [develop, .net, conference]
+---
+
+after visiting BASTA 2009, my next conference is **.NET DevCon 2011**.  
+2 days absorbing knowledge and in the evening a small beer in the old town of Nuremberg.  
+that's nice.
+
+{% img center /images/posts/dotNetDevCon2011.png %}

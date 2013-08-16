@@ -2,12 +2,13 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://jkarger.de
+title: punker76
+subtitle: Punk's not dead!
+author: punker76
 simple_search: http://google.com/search
-description:
+description: Fun, music, tips, tricks, and hacks on .Net, C#, WPF, Arduino, Netduino, Raspberry Pi and other stuff.
+keywords: c#,csharp,cpp,wpf,windows,presentation,foundation,delphi,web development,arduino,netduino,netduino plus,raspberry pi,raspi,raspbmc,openelec,xbian,octopress,plugin,jekyll,ruby,java,javascript,coffeescript,running,runtastic,.net,dotnet,linux,punk,music,rock,tim timebomb,rancid,nofx
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -63,13 +64,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
+github_user: punker76
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: punker76
 twitter_tweet_button: true
 
 # Google +1
@@ -90,11 +91,23 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: jkarger
+disqus_show_comment_count: true
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-34351005-1
 
 # Facebook Like
 facebook_like: false
+
+mapping:
+        provider: openstreetmap
+        zoom: 10
+        dimensions:
+                   width: 750
+                   height: 350
+
+datachart:
+        dimensions:
+                   width: 750
+                   height: 200
